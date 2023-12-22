@@ -5,7 +5,6 @@
 Clone this repository and go to the cloned folder.
 ```bash
 https://github.com/adit1602/Capstone-FrontEnd-Foodiescover.git
-cd backend-app
 ```
 
 run the app in android studio
